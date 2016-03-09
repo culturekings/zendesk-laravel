@@ -1,5 +1,5 @@
 {
-    "name": "huddledigital/zendesk-laravel",
+    "name": "culturekings/zendesk-laravel",
     "type": "library",
     "description": "Laravel wrapper for zendesk/zendesk_api_client_php package",
     "keywords": ["zendesk"],
@@ -13,7 +13,7 @@
     "require": {
         "php": ">=5.4.0",
         "laravel/framework": "5.*",
-        "zendesk/zendesk_api_client_php": "2.*"
+        "culturekings/zendesk_api_client_php": "dev-master"
     },
     "autoload": {
         "psr-4": {
